@@ -1,2 +1,2 @@
 # fs_demo
-Financial Statement Builder Demo
+Financial Statement Builder Demonstration
